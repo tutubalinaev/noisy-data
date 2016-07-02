@@ -1,5 +1,5 @@
 # reviews-with-noisy-labels
-All experiments were performed on a collection of reviews about cars and mobile applications in Russian.
+All experiments were performed on a collection of reviews about automobiles and mobile applications in Russian.
 
 1) Data with noisy labels: corpora/fin_apps_comments_lem.txt, corpora/auto_sentences_lem.txt
 
